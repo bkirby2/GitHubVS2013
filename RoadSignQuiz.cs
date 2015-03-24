@@ -49,7 +49,9 @@ namespace FlagQuiz
       int m_intCount = 1;
       int m_intCorrect = 0;
       string m_strCountry; // current flag's country
-      Player playerObj = new Player("Blythe", "Kirby", 28);
+      Player playerObj = new Player("Jane", "Doe", 01/01/2001);
+      // Person person1 = new Person("Jane", "Doe")
+       //Player player1 = new Player(1, 0.00, 0.00)
 
       public FrmFlagQuiz()
       {
